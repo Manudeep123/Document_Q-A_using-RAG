@@ -8,7 +8,7 @@ A question-answering system powered by LangChain, OpenAI, and FAISS/Pinecone for
 - Upload documents (PDF, TXT, etc.) and ask questions in natural language.
 - Uses Retrieval-Augmented Generation (RAG) for accurate answers.
 - Supports FAISS (local) or Pinecone (cloud) vector storage.
-- Secured with Pebblo for AI compliance (if applicable).
+
 
 ## Prerequisites
 - Python 3.10+
